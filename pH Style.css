@@ -1,0 +1,75 @@
+body{
+    font-family: Calibri ;
+    padding:20px;
+    margin: auto;
+}
+#body-form{
+    width: 85%;
+}
+#center{
+    padding-top:8px;
+    width:70%;
+}
+h1{
+    font-family: Calibri ;
+    padding:inherit;
+    border: black solid;
+    background-color:rgb(172, 13, 13);
+    color:white;
+    border-radius:8px;
+    width:70%;
+    text-align:center;
+    
+}
+p{
+    margin: auto;
+    padding: 5px;
+    color:white;
+    border-radius:8px;
+    text-align:center;
+}
+p.one{
+    background-color:rgb(0, 116, 224);
+}
+p.two{
+    background-color:rgb(0, 149, 226);
+}
+p.three{
+    background-color:rgb(0, 162, 228);
+}
+p.four{
+    background-color:rgb(50, 170, 230);
+}
+p.five{
+    background-color:rgb(85, 183, 237);
+}
+p.six{
+    background-color: rgb(100, 195, 240);
+}
+p.seven{
+    background-color:rgb(120, 209, 247);
+}
+p.eight{
+    background-color:rgb(74, 207, 47);
+}
+p.nine{
+    background-color:rgb(245, 173, 204);
+}
+p.ten{
+    background-color:rgb(253, 162, 238);
+}
+p.eleven{
+    background-color:rgb(255, 151, 232);
+}
+p.twelve{
+    background-color:rgb(253, 143, 224);
+}
+p.thirteen{
+    background-color:rgb(250, 67, 195);
+}
+p.fourteen{
+    background-color:rgb(248, 14, 158);
+}
+p.fifteen{
+    background-color:rgb(245, 11, 128);
+}
